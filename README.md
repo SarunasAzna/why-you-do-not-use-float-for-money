@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarunasAzna/why-you-do-not-use-float-for-money/main)
